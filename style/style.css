@@ -431,9 +431,6 @@ body {
   border-top-right-radius: 14px;
   border-top-left-radius: 14px;
 }
-.price__card-list {
-  
-}
 .price__card-item {
   display: flex;
   padding: 14px;
@@ -527,8 +524,6 @@ body {
   display: flex;
   justify-content: space-between;
   margin-bottom: 50px;
-}
-.footer__contact {
 }
 .footer__contact-logo {
   margin-bottom: 40px;
